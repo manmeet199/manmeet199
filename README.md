@@ -2,7 +2,7 @@
 
 <!--
 **manmeet199/manmeet199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=manmeet199&color=green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=manmeet199&color=green)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmeet199&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manmeet199&theme=dark)](https://git.io/streak-stats)
 
