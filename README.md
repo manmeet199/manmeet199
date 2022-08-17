@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmeet199&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manmeet199&theme=dark)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=manmeet199&color=green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmeet199&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manmeet199&theme=dark)](https://git.io/streak-stats)
+
